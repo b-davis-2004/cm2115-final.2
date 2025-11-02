@@ -1,0 +1,6 @@
+C:\Users\briel\OneDrive - Robert Gordon University\CM2115\Final v.1\final.v1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\briel\OneDrive - Robert Gordon University\CM2115\Final v.1\final.v1\obj\Debug\net9.0\final.v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briel\OneDrive - Robert Gordon University\CM2115\Final v.1\final.v1\obj\Debug\net9.0\final.v1.AssemblyInfoInputs.cache
+C:\Users\briel\OneDrive - Robert Gordon University\CM2115\Final v.1\final.v1\obj\Debug\net9.0\final.v1.AssemblyInfo.cs
+C:\Users\briel\OneDrive - Robert Gordon University\CM2115\Final v.1\final.v1\obj\Debug\net9.0\final.v1.csproj.CoreCompileInputs.cache
+C:\Users\briel\OneDrive - Robert Gordon University\CM2115\Final v.1\final.v1\obj\Debug\net9.0\final.v1.MvcApplicationPartsAssemblyInfo.cache
