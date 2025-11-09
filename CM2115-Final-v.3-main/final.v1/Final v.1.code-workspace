@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "cm2115-finals-dev",
+			"path": "../cm2115-finals-dev"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "final.sln"
+	}
+}
