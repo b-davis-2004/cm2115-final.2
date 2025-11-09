@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\Final v.1\\final.v1\\final.v1.csproj": {}
+    "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\cm2115-final.2\\Final v.1\\final.v1\\final.v1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\Final v.1\\final.v1\\final.v1.csproj": {
+    "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\cm2115-final.2\\Final v.1\\final.v1\\final.v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\Final v.1\\final.v1\\final.v1.csproj",
+        "projectUniqueName": "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\cm2115-final.2\\Final v.1\\final.v1\\final.v1.csproj",
         "projectName": "final.v1",
-        "projectPath": "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\Final v.1\\final.v1\\final.v1.csproj",
+        "projectPath": "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\cm2115-final.2\\Final v.1\\final.v1\\final.v1.csproj",
         "packagesPath": "C:\\Users\\briel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\Final v.1\\final.v1\\obj\\",
+        "outputPath": "C:\\Users\\briel\\OneDrive - Robert Gordon University\\CM2115\\cm2115-final.2\\Final v.1\\final.v1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\briel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

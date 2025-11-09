@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ConcreteEnemies\ConcretePuzzles\" />
+    <Folder Include="ConcreteEnemies\" />
   </ItemGroup>
 
 </Project>
